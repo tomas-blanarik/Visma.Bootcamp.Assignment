@@ -23,7 +23,7 @@ Hello developers, we are happy that you decided to take the part in the Visma Bo
 ## Additional information:
 - you can choose any programming language
     - examples: **C#, JavaScript, Java, ...**
-    - *do not use Python (only if necessary)*
+    - *try to avoid using Python (only if necessary)*
     - we must be able to **compile && run** the application
 - you can choose *any technologies and libraries*
     - it doesn’t matter if the application will be Console app, or Web App, mobile app, ... :)
