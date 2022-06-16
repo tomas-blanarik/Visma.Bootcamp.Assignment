@@ -9,7 +9,7 @@ Hello developers, we are happy that you decided to take the part in the Visma Bo
 
 # Assignment: Design an elevator algorithm.
 - Time: **48 hours**
-- if you're finished, send Github url of your solution to tomas.blanarik@gmail.com
+- if you're finished, send Github url of your solution to tomas.blanarik@visma.com
 
 ## Acceptance criteria
 - elevator must be able to travel between floors
